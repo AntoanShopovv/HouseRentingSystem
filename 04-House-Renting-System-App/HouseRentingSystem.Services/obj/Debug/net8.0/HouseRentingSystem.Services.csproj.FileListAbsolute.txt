@@ -1,0 +1,13 @@
+/home/antoan-shopov/HouseRentingSystem/04-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net8.0/HouseRentingSystem.Services.deps.json
+/home/antoan-shopov/HouseRentingSystem/04-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net8.0/HouseRentingSystem.Services.runtimeconfig.json
+/home/antoan-shopov/HouseRentingSystem/04-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net8.0/HouseRentingSystem.Services.dll
+/home/antoan-shopov/HouseRentingSystem/04-House-Renting-System-App/HouseRentingSystem.Services/bin/Debug/net8.0/HouseRentingSystem.Services.pdb
+/home/antoan-shopov/HouseRentingSystem/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net8.0/HouseRentingSystem.Services.csproj.AssemblyReference.cache
+/home/antoan-shopov/HouseRentingSystem/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net8.0/HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+/home/antoan-shopov/HouseRentingSystem/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net8.0/HouseRentingSystem.Services.AssemblyInfoInputs.cache
+/home/antoan-shopov/HouseRentingSystem/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net8.0/HouseRentingSystem.Services.AssemblyInfo.cs
+/home/antoan-shopov/HouseRentingSystem/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net8.0/HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+/home/antoan-shopov/HouseRentingSystem/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net8.0/HouseRentingSystem.Services.sourcelink.json
+/home/antoan-shopov/HouseRentingSystem/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net8.0/HouseRentingSystem.Services.dll
+/home/antoan-shopov/HouseRentingSystem/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net8.0/HouseRentingSystem.Services.pdb
+/home/antoan-shopov/HouseRentingSystem/04-House-Renting-System-App/HouseRentingSystem.Services/obj/Debug/net8.0/HouseRentingSystem.Services.genruntimeconfig.cache
