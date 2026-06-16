@@ -13,6 +13,10 @@ jobs:
     name: Build and Test .NET App
     runs-on: ubuntu-latest
 
+    defaults:
+      run:
+        working-directory: ./04-House-Renting-System-App/HouseRentingSystem.Web
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
