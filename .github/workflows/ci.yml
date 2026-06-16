@@ -1,0 +1,32 @@
+name: CI Pipeline
+
+on:
+  push:
+    branches:
+      - main
+  pull_request:
+    branches:
+      - main
+
+jobs:
+  build:
+    name: Build and Test .NET App
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Setting up .NET Core 6.0
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '6.0.x'
+
+      - name: Restoring dependencies
+        run: dotnet restore
+
+      - name: Building the app
+        run: dotnet build --no-restore --configuration Release
+
+      - name: Running the tests
+        run: dotnet test --no-build --configuration Release
